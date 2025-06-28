@@ -6,7 +6,7 @@ This project aims to build an end-to-end data pipeline using Databricks and inte
 
 - `01_raw_data/` - raw data files (Excel, CSV)
 - `02_etl/` - notebooks for data ingestion and transformation
-- `03_analysis/` - notebooks and SQL for exploration and BI support
+- `03_eda` - notebooks and SQL for exploration and BI support
 - `04_outputs/` - generated charts, exports, and temporary outputs
 - `05_docs/` - documentation and metadata
 
